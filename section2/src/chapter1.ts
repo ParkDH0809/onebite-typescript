@@ -23,7 +23,5 @@ let null1: null = null;
 // undefined
 let unde1: undefined = undefined;
 
-let numA: number = null;
-
 // 리터럴 타입
 let numB: 10 = 10;
