@@ -6,7 +6,6 @@
         "strict": true,
         "moduleDetection": "force",
         "skipLibCheck": true,
-        "strictNullChecks": false
     },
     "include": ["src"]
 }
